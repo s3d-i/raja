@@ -1,0 +1,11 @@
+convokit
+spacy
+pandas
+numpy
+scikit-learn
+scipy
+requests
+transformers
+google-api-python-client
+beautifulsoup4
+jupyter

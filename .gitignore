@@ -1,0 +1,22 @@
+# Bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env / secrets (keep placeholder even if remote APIs are unused)
+.env
+
+# Large data/model outputs (use placeholder notes if files must be shared)
+assets/raw/
+assets/processed/
+assets/models/
