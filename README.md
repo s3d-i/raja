@@ -19,6 +19,8 @@
 - `*_perspective*.pkl`：Perspective 评分版本（含不同清洗/过滤）。
 - `lda_results_*.pkl`：主题/向量化结果。
 - `assets/processed/topics/lda_results_*.pkl`：从 `../Raja/revised_convo/` 迁移的 TF-IDF/Count LDA 结果（refuse/accept 切分）。
+- `assets/processed/combat_threads_with_perspective*.pkl`：从 `../Raja/revised_convo/combat_df_list_imms_1_full_perspective*.pkl` 迁移；包含带 Perspective 评分的模仿文本（`*_list` 版本附带 `perspective_ls`，`*_more_refuse_cleaned` 版本附带 `true_rate`/`refuse_add`）。
+- `assets/processed/report/`：报告快照输出目录（由 `06_report.ipynb` 生成，默认空目录）。
 - `jp_vs_cn.csv`：YouTube 评论数据（独立探索）。
 - 其他：`llama3-tokenizer.model`、模型转换脚本等。
 
