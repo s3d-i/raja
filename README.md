@@ -18,6 +18,7 @@
 - `combat_df_list*.pkl` 系列：互怼文本、LLM 摘要/模仿及 `imm*_check`、`refuse` 等字段。
 - `*_perspective*.pkl`：Perspective 评分版本（含不同清洗/过滤）。
 - `lda_results_*.pkl`：主题/向量化结果。
+- `assets/processed/topics/lda_results_*.pkl`：从 `../Raja/revised_convo/` 迁移的 TF-IDF/Count LDA 结果（refuse/accept 切分）。
 - `jp_vs_cn.csv`：YouTube 评论数据（独立探索）。
 - 其他：`llama3-tokenizer.model`、模型转换脚本等。
 
