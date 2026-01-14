@@ -1,0 +1,81 @@
+{
+  "source_mode": "more_refuse",
+  "source_path": "/home/l/Raja_win/cleaned/assets/processed/combat_threads_with_perspective_list_more_refuse_cleaned.pkl",
+  "refusal_true_rate_threshold": 0.67,
+  "high_toxicity_threshold": 0.5,
+  "refusal_conversation_threshold": 0.1,
+  "metrics": {
+    "rows": 35116,
+    "refusal_rate": 0.08913315867410866,
+    "refusal_conversation_share": 0.2797373358348968,
+    "toxicity_rate": 0.05658389338193416,
+    "toxicity_rate_refusals": 0.2268370607028754,
+    "toxicity_rate_acceptances": 0.039923716626023883
+  },
+  "topic_highlights": {
+    "tfidf_ref": {
+      "n_topics": 3,
+      "top_terms": [
+        "woman white black rape man think like sex say want",
+        "mana nyx riki gem motherfucker fow eul treads ing ganke",
+        "ethnicite revisionist democratically chancellor consecutive slanderous caucasian psychosis cyanide decriminalise"
+      ]
+    },
+    "tfidf_acc": {
+      "n_topics": 2,
+      "top_terms": [
+        "woman think like right say man want thing know point",
+        "seti isch muscato danielle projects laxdelux backpedalle hubbin removekebabz blueelephant"
+      ]
+    },
+    "count_ref": {
+      "n_topics": 11,
+      "top_terms": [
+        "life think good kill right want person thing bad animal",
+        "trump ban country supporter vote support think muslim president anti",
+        "want life abortion think pay like say work choice right",
+        "black white racist race racism like say think person group",
+        "culture muslims kill like terrorist attack number mean crime lot",
+        "woman sex like think man tran gender person want feel",
+        "country culture slave america right war israel like state live",
+        "rape woman man say think like consent sex want sexual",
+        "gun weapon police law know suicide time shoot like right",
+        "nazi violence group speech right like hate think kill islam",
+        "right say gay think word like thing mean want good"
+      ]
+    },
+    "count_acc": {
+      "n_topics": 28,
+      "top_terms": [
+        "white black race racist racism culture think like say group",
+        "child year kid change time old good know life science",
+        "movie character film like art good think video music know",
+        "police crime violence black violent kill cop commit protest murder",
+        "car drug drive alcohol drunk drink like effect know driving",
+        "military soldier army anthem gmo smart fight terrorism boycott join",
+        "child parent right abortion sex want support father marriage consent",
+        "gender sex identity social like definition mean right feminist person",
+        "health medical mental body doctor care treatment life fat cancer",
+        "country war world american america nation israel russia state china",
+        "human life moral think argument person right believe good mean",
+        "country year work terrorism number europe time terrorist average population",
+        "trump vote think party president like election hillary support candidate",
+        "evidence believe investigation court kavanaugh assault accusation case fbi prove",
+        "school student college teach teacher education university idea class high",
+        "market company system sell use apple service tip need buy",
+        "say point claim argument think know evidence like fact post",
+        "rape crime victim case death justice criminal fact year happen",
+        "pay money work job tax wage government like business good",
+        "law right government illegal legal state citizen allow free rule",
+        "woman man male gender female tran sex society girl role",
+        "gun weapon ban firearm mass right shooting death control law",
+        "circumcision benefit self harm point live protect happiness culture reason",
+        "animal eat meat dog kill food like human need vegan",
+        "right view speech conservative think liberal political like group nazi",
+        "like think want thing say way know bad person feel",
+        "game sport play team world player win good league pc",
+        "religion god islam religious muslim christian muslims belief christianity believe"
+      ]
+    }
+  }
+}
