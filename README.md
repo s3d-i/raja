@@ -1,6 +1,6 @@
 ## Description
 Code repo for my research in July 2024.
-**Report**: ./report.md
+**Report**: [report.md](report.md)
 
 ## Reproduce the results
 1) Create a virtual env and install deps with uv:
